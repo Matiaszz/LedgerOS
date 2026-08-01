@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Matiaszz/ledgeros-backend.git
+[submodule "frontend-react"]
+	path = frontend-react
+	url = https://github.com/Matiaszz/ledgeros-frontend-react.git
